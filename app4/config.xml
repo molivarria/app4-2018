@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.app4-mog" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>FIMAZ</name>
+    <name>Contactos FIMAZ</name>
     <description>
         Aplicación 4, app de contactos de la Facultad de Informática.
     </description>
